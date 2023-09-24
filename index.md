@@ -7,3 +7,7 @@
 ```python
 a,b=3,4
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
